@@ -1,2 +1,3 @@
-# wiki
-The Fourtunas wiki
+# Fourtunas Wiki
+
+Welcome to the Fourtunas wiki.
