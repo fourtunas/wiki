@@ -1,4 +1,2 @@
 markdown: kmarkdown
 theme: minimal
-plugins:
-- jekyll-remote-theme
